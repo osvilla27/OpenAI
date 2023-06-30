@@ -1,0 +1,9 @@
+openai
+datalib
+matplotlib 
+plotly 
+scipy 
+scikit-learn
+pandas
+mimesis
+nltk
